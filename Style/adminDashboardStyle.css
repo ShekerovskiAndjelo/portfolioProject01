@@ -1,0 +1,31 @@
+.colorOne {
+    background-color: #040D12;
+}
+
+.colorOneT {
+    color: #183D3D;
+}
+
+.colorTwo {
+    background-color: #183D3D;
+}
+
+.colorTextOne {
+    color: #5C8374;
+}
+
+.colorTextTwo {
+    color: #93B1A6;
+}
+
+.colorThree{
+    background-color: #93B1A6;
+}
+
+body{
+    background-color: #183D3D;
+}
+
+.cWid{
+    width: 200px !important;
+}

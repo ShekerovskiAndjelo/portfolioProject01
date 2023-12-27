@@ -1,0 +1,19 @@
+.parent-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto !important;
+  }
+  
+  .centered-div {
+    background-color: lightgray;
+    padding: 20px;
+    border-radius: 5px;
+  }
+
+  body{
+    background-image: url(../Images/pexels-mehmet-turgut-kirkgoz-16574831.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
